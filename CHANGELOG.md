@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [next rel] - TBD
+### Added
+- AdaScale validated and no longer experimental
+
+### Fixed
+- tbd
+
 ## [0.0.3] - 2020-10-14
 ### Added
 - multi-process pipe
